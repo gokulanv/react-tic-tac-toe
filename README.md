@@ -1,3 +1,6 @@
+# React Tic-Tac-Toe
+This project is a *componentized* version of the standard react tic-tac-toe game. That't it. Built for fun!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
